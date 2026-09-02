@@ -1,9 +1,10 @@
 ﻿# IDE
 .idea/
 .vs/
-.vscode/
 .qoder
 .qtcreator
+.workbuddy
+
 
 # Python
 __pycache__/*
@@ -41,3 +42,5 @@ app/recording/__pycache__/*
 # logs / docs / external services
 docs/*
 log/*
+config.bat
+node_modules
